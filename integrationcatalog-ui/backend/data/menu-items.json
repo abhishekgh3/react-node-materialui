@@ -1,0 +1,394 @@
+[
+  {
+    "type": "filter",
+    "id": "1",
+    "codeType": "config",
+    "code": "mysql",
+    "text": "mysql DB"
+  },
+  {
+    "type": "filter",
+    "id": "2",
+    "codeType": "config",
+    "code": "snowflake",
+    "text": "snowflake DB"
+  },
+  {
+    "type": "filter",
+    "id": "3",
+    "codeType": "config",
+    "code": "edit",
+    "text": "editMemu"
+  },
+  {
+    "type": "all",
+    "id": "4",
+    "codeType": "brand",
+    "code": "SS",
+    "text": "SS - Stop and Shop"
+  },
+  {
+    "type": "all",
+    "id": "5",
+    "codeType": "brand",
+    "code": "WM",
+    "text": "WM - Wallmart"
+  },
+  {
+    "type": "all",
+    "id": "6",
+    "codeType": "brand",
+    "code": "PM",
+    "text": "PM - Pathmark"
+  },
+  {
+    "type": "filter",
+    "id": "7",
+    "codeType": "region",
+    "code": "NA",
+    "text": "NA - North America"
+  },
+  {
+    "type": "filter",
+    "id": "8",
+    "codeType": "region",
+    "code": "EU",
+    "text": "EU - Europe"
+  },
+  {
+    "type": "filter",
+    "id": "9",
+    "codeType": "region",
+    "code": "AS",
+    "text": "AS - Aisa"
+  },
+  {
+    "type": "filter",
+    "id": "10",
+    "codeType": "region",
+    "code": "JP",
+    "text": "JP - Japan"
+  },
+  {
+    "type": "filter",
+    "id": "11",
+    "codeType": "tools",
+    "code": "ACE",
+    "text": "ACE - ESB ACE"
+  },
+  {
+    "type": "filter",
+    "id": "12",
+    "codeType": "tools",
+    "code": "APIC",
+    "text": "APIC - ESB APIC"
+  },
+  {
+    "type": "filter",
+    "id": "13",
+    "codeType": "tools",
+    "code": "DP",
+    "text": "DP - ESB DataPower"
+  },
+  {
+    "type": "filter",
+    "id": "14",
+    "codeType": "tools",
+    "code": "MQ",
+    "text": "MQ - ESB MQ"
+  },
+  {
+    "type": "filter",
+    "id": "15",
+    "codeType": "tools",
+    "code": "KAFKA",
+    "text": "KAFKA - ESB KAFKA"
+  },
+  {
+    "type": "filter",
+    "id": "16",
+    "codeType": "tools",
+    "code": "EDI",
+    "text": "EDI - Sterling"
+  },
+  {
+    "type": "filter",
+    "id": "17",
+    "codeType": "tools",
+    "code": "PIPO",
+    "text": "PIPO - SAP"
+  },
+  {
+    "type": "filter",
+    "id": "18",
+    "codeType": "tools",
+    "code": "MFT",
+    "text": "MFT - File Transfer"
+  },
+  {
+    "type": "all",
+    "id": "19",
+    "codeType": "tools",
+    "code": "ETL",
+    "text": "ETL - Informatica"
+  },
+  {
+    "type": "all",
+    "id": "20",
+    "codeType": "system",
+    "code": "ECV",
+    "text": "ECV - ECVISION"
+  },
+  {
+    "type": "all",
+    "id": "21",
+    "codeType": "system",
+    "code": "PMDB",
+    "text": "PMDB - Product Master DB"
+  },
+  {
+    "type": "all",
+    "id": "22",
+    "codeType": "system",
+    "code": "A360",
+    "text": "A360 - Article Master DB"
+  },
+  {
+    "type": "all",
+    "id": "23",
+    "codeType": "system",
+    "code": "SAP",
+    "text": "SAP - ERP"
+  },
+  {
+    "type": "all",
+    "id": "24",
+    "codeType": "system",
+    "code": "APTOS",
+    "text": "APTOS - Point Of Sales"
+  },
+  {
+    "type": "all",
+    "id": "25",
+    "codeType": "system",
+    "code": "CS2000",
+    "text": "CS2000 - Point Of Sales"
+  },
+  {
+    "type": "all",
+    "id": "26",
+    "codeType": "system",
+    "code": "JAX",
+    "text": "JAX - WMS"
+  },
+  {
+    "type": "all",
+    "id": "27",
+    "codeType": "system",
+    "code": "VDC",
+    "text": "VDC - WMS"
+  },
+  {
+    "type": "all",
+    "id": "28",
+    "codeType": "system",
+    "code": "XBT",
+    "text": "XBT - WMS"
+  },
+  {
+    "type": "all",
+    "id": "29",
+    "codeType": "system",
+    "code": "XBR",
+    "text": "XBR - WMS"
+  },
+  {
+    "type": "filter",
+    "id": "30",
+    "codeType": "context",
+    "code": "Article:Reference",
+    "text": "Article:Reference"
+  },
+  {
+    "type": "filter",
+    "id": "31",
+    "codeType": "context",
+    "code": "Article:Color Master",
+    "text": "Article:Color Master"
+  },
+  {
+    "type": "filter",
+    "id": "32",
+    "codeType": "context",
+    "code": "Article:Material Master",
+    "text": "Article:Material Master"
+  },
+  {
+    "type": "filter",
+    "id": "33",
+    "codeType": "context",
+    "code": "Article:Article Master",
+    "text": "Article:Article Master"
+  },
+  {
+    "type": "filter",
+    "id": "34",
+    "codeType": "context",
+    "code": "Article:Cost",
+    "text": "Article:Cost"
+  },
+  {
+    "type": "filter",
+    "id": "35",
+    "codeType": "context",
+    "code": "Article:Compliance",
+    "text": "Article:Compliance"
+  },
+  {
+    "type": "filter",
+    "id": "36",
+    "codeType": "context",
+    "code": "Article:Price Wholesale",
+    "text": "Article:Price Wholesale"
+  },
+  {
+    "type": "filter",
+    "id": "37",
+    "codeType": "context",
+    "code": "Article:Price Retail MSRP",
+    "text": "Article:Price Retail MSRP"
+  },
+  {
+    "type": "filter",
+    "id": "38",
+    "codeType": "context",
+    "code": "Article:Price Retail Markdown",
+    "text": "Article:Price Retail Markdown"
+  },
+  {
+    "type": "filter",
+    "id": "39",
+    "codeType": "context",
+    "code": "Article:Pack Dimension",
+    "text": "Article:Pack Dimension"
+  },
+  {
+    "type": "filter",
+    "id": "40",
+    "codeType": "context",
+    "code": "Article:Online Assortment",
+    "text": "Article:Online Assortment"
+  },
+  {
+    "type": "filter",
+    "id": "41",
+    "codeType": "context",
+    "code": "Supply:Purchase Order",
+    "text": "Supply:Purchase Order"
+  },
+  {
+    "type": "filter",
+    "id": "42",
+    "codeType": "context",
+    "code": "Supply:Inbound ASN",
+    "text": "Supply:Inbound ASN"
+  },
+  {
+    "type": "filter",
+    "id": "43",
+    "codeType": "context",
+    "code": "Supply:Goods Receipt",
+    "text": "Supply:Goods Receipt"
+  },
+  {
+    "type": "filter",
+    "id": "44",
+    "codeType": "context",
+    "code": "Supply:Inventory Adjustment",
+    "text": "Supply:Inventory Adjustment"
+  },
+  {
+    "type": "filter",
+    "id": "45",
+    "codeType": "context",
+    "code": "Supply:Inventory Sync",
+    "text": "Supply:Inventory Sync"
+  },
+  {
+    "type": "filter",
+    "id": "46",
+    "codeType": "context",
+    "code": "Demand:Sales Order Wholesale",
+    "text": "Demand:Sales Order Wholesale"
+  },
+  {
+    "type": "filter",
+    "id": "47",
+    "codeType": "context",
+    "code": "Demand:Sales Order OMNI",
+    "text": "Demand:Sales Order OMNI"
+  },
+  {
+    "type": "filter",
+    "id": "48",
+    "codeType": "context",
+    "code": "Demand:Sales Order Marketplace",
+    "text": "Demand:Sales Order Marketplace"
+  },
+  {
+    "type": "filter",
+    "id": "49",
+    "codeType": "context",
+    "code": "Demand:Store Order STO",
+    "text": "Demand:Store Order STO"
+  },
+  {
+    "type": "catalogue",
+    "id": "51",
+    "codeType": "level",
+    "code": "L2",
+    "text": "L2"
+  },
+  {
+    "type": "catalogue",
+    "id": "52",
+    "codeType": "level",
+    "code": "L3",
+    "text": "L3"
+  },
+  {
+    "type": "catalogue",
+    "id": "50",
+    "codeType": "level",
+    "code": "L1",
+    "text": "L1"
+  },
+  {
+    "type": "catalogue",
+    "id": "53",
+    "codeType": "channel",
+    "code": "ALL",
+    "text": "ALL"
+  },
+  {
+    "type": "catalogue",
+    "id": "54",
+    "codeType": "status",
+    "code": "Active",
+    "text": "Active"
+  },
+  {
+    "type": "catalogue",
+    "id": "55",
+    "codeType": "status",
+    "code": "NA",
+    "text": "Not Active"
+  },
+  {
+    "type": "catalogue",
+    "id": "56",
+    "codeType": "brand",
+    "code": "ALL",
+    "text": "ALL"
+  }
+]
